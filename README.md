@@ -62,7 +62,7 @@ The analysis is based on four datasets:
 
 ## 📊 Dashboard Preview
 
-> *(Add a screenshot of your Excel dashboard here)*
+> ![Dashboard Preview](dashboard.png)
 > `![Dashboard Preview](dashboard.png)`
 
 ---
