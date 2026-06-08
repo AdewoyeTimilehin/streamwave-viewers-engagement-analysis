@@ -62,7 +62,7 @@ The analysis is based on four datasets:
 
 ## 📊 Dashboard Preview
 
-> ![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard.png)
 > `![Dashboard Preview](dashboard.png)`
 
 ---
