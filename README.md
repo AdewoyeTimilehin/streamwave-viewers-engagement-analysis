@@ -1,5 +1,7 @@
 # 📺 Utilizing Viewers' Engagement for Strategic Content Investment in the Media & Entertainment Sector
 
+![Project Banner](Stream.png)
+
 ## 🏢 Company Overview
 
 **StreamWave Entertainment** was founded in 2008 as a DVD rental-by-mail business that pivoted into online streaming as broadband access expanded globally. By 2012, the company had fully transitioned into digital content delivery. In 2015, StreamWave released its first original series — a massive success that established the brand as a serious content creator.
