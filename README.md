@@ -105,5 +105,5 @@ streamwave-engagement-analysis/
 
 ## 👤 Author
 
-**[Your Name]**
-[LinkedIn Profile](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
+**Adewoye Oluwatimilehin Joseph**
+[LinkedIn Profile](https://www.linkedin.com/in/adewoye-oluwatimilehin/)
