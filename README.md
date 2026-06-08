@@ -1,6 +1,6 @@
 # 📺 Utilizing Viewers' Engagement for Strategic Content Investment in the Media & Entertainment Sector
 
-![Project Banner](Stream.png)
+![Project Banner](Stream.jpg)
 
 ## 🏢 Company Overview
 
